@@ -1,16 +1,23 @@
-### Hi there 👋
+# Experiments must be honest, Paw 
 
-<!--
-**jesunglim/jesunglim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I❤️ **CREATIVE**✨ Things
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="200">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-jesunglimkorea@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jesunglimkorea@gmail.com)](mailto:jesunglimkorea@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesunglim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+## 🧑‍💻 Technologies I Love
+
+- Computer Vison
+- Machine Learning
+- Deep Learning
+
+## 🔤 Programming Languages
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="C++" src="https://img.shields.io/badge/C-%23777BB4.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+
+##
+
+[![jesunglim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesunglim&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/jesunglim)
