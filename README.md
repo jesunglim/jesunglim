@@ -1,6 +1,4 @@
-# Experiments must be honest, Paw 
-
-I❤️ **CREATIVE**✨ Things
+# Experiments must be honest, Pal 
 
 <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="200">
 
