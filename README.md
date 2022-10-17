@@ -1,6 +1,6 @@
-# Experiments must be honest, Pal 
+# Experiments must be honest, Pal. 
 
-<img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/1iW2g0lzwdRqNu3m/giphy.gif" width="400">
 
 [![Gmail Badge](https://img.shields.io/badge/-jesunglimkorea@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jesunglimkorea@gmail.com)](mailto:jesunglimkorea@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesunglim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
