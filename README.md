@@ -11,5 +11,7 @@
 - Computer Vison
 - Machine Learning
 - Deep Learning
+- Lightning Network ⚡
+- Front-end Web Development
 
 ##
