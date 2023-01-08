@@ -6,7 +6,7 @@
 
 
 
-## 🧑‍💻 Technologies I Love
+## 🐇 Rabbit Hole
 
 - Computer Vison
 - Machine Learning
